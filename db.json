@@ -1,0 +1,29 @@
+{
+    "users":[
+        {
+            "name":"Ali",
+            "age": 50,
+            "email":"ali@test.com"
+        },
+        {
+            "name":"Hassan",
+            "age": 45,
+            "email":"ali@test.com"
+        },
+        {
+            "name":"Hussain",
+            "age": 40,
+            "email":"ali@test.com"
+        },
+        {
+            "name":"Ahmad",
+            "age": 35,
+            "email":"ali@test.com"
+        },
+        {
+            "name":"Arif",
+            "age": 25,
+            "email":"ali@test.com"
+        }
+    ]
+}
